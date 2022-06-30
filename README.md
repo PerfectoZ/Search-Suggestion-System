@@ -1,10 +1,10 @@
 # Search-Suggestion-System
 
-#Cache.txt 
+## Cache.txt 
 As a Sample input we have chosen the most common 1000 words used in English from this gist : 
 https://gist.github.com/deekayen/4148741
 
-#SearchSuggestionSystem.cpp
+## SearchSuggestionSystem.cpp
 This File contains the main program which works the following way :
 
 1. Load all the words previously searched (Which we have taken to be Cache.txt)
